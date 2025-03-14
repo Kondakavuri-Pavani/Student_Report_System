@@ -17,13 +17,12 @@ This will start the application.
 
 Run commands
 
-1.g++ -o Student_Report_System main.cpp
+1.g++ main.cpp
 
-2. ./Student_Report_System
+2. ./a.out
 
 Output
-![image](https://github.com/user-attachments/assets/b4ab999c-5209-4f88-84db-4b033f6555c5)
-
+![image](https://github.com/user-attachments/assets/9bc0b1bd-b989-469b-aa83-873c90a3ad83)
 
 
 
