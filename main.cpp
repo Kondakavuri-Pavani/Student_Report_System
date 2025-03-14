@@ -62,7 +62,7 @@ int main() {
     int choice;
 
     do {
-        std::cout << "\nStudent Report System\n";
+        std::cout << "\nStudent Report\n";
         std::cout << "1. Add Student\n";
         std::cout << "2. Display Students\n";
         std::cout << "3. Calculate Average Score\n";
